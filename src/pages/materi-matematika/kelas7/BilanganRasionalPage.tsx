@@ -6,7 +6,7 @@ import { playPopSound } from "@/hooks/useAudio";
 
 const subtopics = [
   { name: "ARTI PECAHAN, PECAHAN SENILAI DAN MEMBANDINGKAN PECAHAN", path: "/materi-matematika/kelas-7/bilangan-rasional/arti-pecahan" },
-  { name: "PECAHAN CAMPURAN DAN PERSEN", path: null },
+  { name: "PECAHAN CAMPURAN DAN PERSEN", path: "/materi-matematika/kelas-7/bilangan-rasional/pecahan-campuran" },
   { name: "PENJUMLAHAN PECAHAN", path: null },
   { name: "PENGURANGAN PECAHAN", path: null },
   { name: "PERKALIAN PECAHAN", path: null },
