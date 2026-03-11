@@ -10,7 +10,7 @@ const subtopics = [
   { name: "PENJUMLAHAN DAN PENGURANGAN PECAHAN", path: "/materi-matematika/kelas-7/bilangan-rasional/penjumlahan-pengurangan-pecahan" },
   { name: "PERKALIAN PECAHAN", path: "/materi-matematika/kelas-7/bilangan-rasional/perkalian-pecahan" },
   { name: "PEMBAGIAN PECAHAN", path: "/materi-matematika/kelas-7/bilangan-rasional/pembagian-pecahan" },
-  { name: "BENTUK DESIMAL", path: null },
+  { name: "BENTUK DESIMAL", path: "/materi-matematika/kelas-7/bilangan-rasional/bentuk-desimal" },
   { name: "PENJUMLAHAN BENTUK DESIMAL", path: null },
   { name: "PENGURANGAN BENTUK DESIMAL", path: null },
   { name: "PERKALIAN BENTUK DESIMAL", path: null },
